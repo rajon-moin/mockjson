@@ -1,6 +1,8 @@
-{
-    "title":"this is a course",
+{   
+    "data":[
+        {   "id":1,
+            "title":"this is a course",
     "author":"abhimani",
-    "url":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg"
+    "url":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg"}
     
 }
